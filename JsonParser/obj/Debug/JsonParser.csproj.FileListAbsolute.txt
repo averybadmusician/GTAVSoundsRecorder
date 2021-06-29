@@ -1,0 +1,10 @@
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\bin\Debug\JsonParser.exe.config
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\bin\Debug\JsonParser.exe
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\bin\Debug\JsonParser.pdb
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\bin\Debug\Newtonsoft.Json.dll
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\bin\Debug\Newtonsoft.Json.xml
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\obj\Debug\JsonParser.csproj.CoreCompileInputs.cache
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\obj\Debug\JsonParser.csproj.CopyComplete
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\obj\Debug\JsonParser.exe
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\obj\Debug\JsonParser.pdb
+D:\MEGA\Repos\GTAVSoundsRecorder\JsonParser\obj\Debug\JsonParser.csprojAssemblyReference.cache
